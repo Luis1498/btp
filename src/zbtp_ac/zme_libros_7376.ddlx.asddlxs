@@ -54,7 +54,7 @@ annotate entity ZC_LIBROS_7376 with
   Autor;
   
   
-  @Consumption.valueHelpDefinition          : [{ entity: { name: 'ZC_CATEGO_7376', element: 'Descripcion'  }}]
+  @Consumption.valueHelpDefinition          : [{ entity: { name: 'ZC_CATEGO_7376', element: 'descripcion'  }}]
   @UI: { 
   fieldGroup:     [{qualifier               : 'DetallesLibro', position: 20}],
   selectionField: [{ position               : 20 }]}
